@@ -18,23 +18,6 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 
 ---
 
-## ☕ Connect with me 
-
-<!-- [![@pranita-fulsundar](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) 
-[![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) ![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) 
-[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) 
-[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com) -->
-
-[<img align="left" alt="pranita | website" width="45px" src="https://img.icons8.com/cotton/256/website.png" />][website]
-[<img align="left" alt="pranita | linkedin" width="45px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="pranita | twitter" width="45px" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" />][twitter]
-[<img align="left" alt="pranita | instagram" width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="pranita | email" width="45px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />](pfulsundar8@gmail.com)
-
-
----
-
 ## 👩💻 What I am Good at ‍
 
 <img align="left" width="45px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
@@ -47,10 +30,14 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 <img align="left" width="45px" src="https://img.icons8.com/fluency/256/node-js.png"/>
 <img align="left" width="45px" src="https://img.icons8.com/color/256/git.png" />
 
-
+<br><br>
 ---
 
-## 👀 My github Stats
+## 📕 My Latest Blog posts
+
+
+
+## 📈 My github Stats
 
 <div>
 <!--   <p align="center">
@@ -67,7 +54,24 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 ![My github status](https://github-readme-stats.vercel.app/api?username=pranita09&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita09&layout=compact)
 
+<br><br>
+---
 
+## ☕ Connect with me 
+
+<!-- [![@pranita-fulsundar](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) 
+[![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) 
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) ![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) 
+[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) 
+[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com) -->
+
+[<img align="left" alt="pranita | website" width="45px" src="https://img.icons8.com/cotton/256/website.png" />][website]
+[<img align="left" alt="pranita | linkedin" width="45px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="pranita | twitter" width="45px" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" />][twitter]
+[<img align="left" alt="pranita | instagram" width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="pranita | email" width="45px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />](pfulsundar8@gmail.com)
+
+<br><br>
 
 [website]: https://pranita-fulsundar.netlify.app/
 [linkedin]:https://www.linkedin.com/in/pranita-fulsundar-8952711a6/
