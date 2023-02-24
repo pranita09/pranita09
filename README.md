@@ -1,13 +1,10 @@
 # Hi there 👋, Pranita here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=pranita09.repoName) [![GitHub followers](https://img.shields.io/github/followers/pranita09.svg?style=social&label=Follow)](https://github.com/pranita09?tab=followers)<br/>
 
-<!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About me
 
 I am a web developer, Javascript, React-JS, HTML, and CSS are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing and Web development**
@@ -19,7 +16,7 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
 
-<br><br>
+---
 
 ## ☕ Connect with me 
 
@@ -35,7 +32,8 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 [<img align="left" alt="pranita | instagram" width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="pranita | email" width="45px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />](pfulsundar8@gmail.com)
 
-<br><br>
+
+---
 
 ## 👩💻 What I am Good at ‍
 
@@ -49,8 +47,8 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 <img align="left" width="45px" src="https://img.icons8.com/fluency/256/node-js.png"/>
 <img align="left" width="45px" src="https://img.icons8.com/color/256/git.png" />
 
-<br><br>
 
+---
 
 ## 👀 My github Stats
 
