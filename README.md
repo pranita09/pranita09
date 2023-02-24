@@ -40,7 +40,7 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 * <a href="https://pranita.hashnode.dev/css-positioning-position-absolute-and-relative">CSS Positioning - Position Absolute and Relative</a>
 
 <br>
-- - - -
+----
 
 ## 📈 My github Stats
 
@@ -60,7 +60,7 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita09&layout=compact)
 
 <br>
-- - - -
+----
 
 ## ☕ Connect with me 
 
