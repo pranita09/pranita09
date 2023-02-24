@@ -19,6 +19,8 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
 
+<br><br>
+
 ## ☕ Connect with me 
 
 <!-- [![@pranita-fulsundar](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) 
@@ -33,7 +35,7 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 [<img align="left" alt="pranita | instagram" width="42px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="pranita | email" width="42px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />][email]
 
-<br>
+<br><br>
 
 ## 👩💻 What I am Good at ‍
 
@@ -47,8 +49,10 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 <img align="left" width="42px" src="https://img.icons8.com/fluency/256/node-js.png"/>
 <img align="left" width="42px" src="https://img.icons8.com/color/256/git.png" />
 
+<br><br>
 
-<h2>👀 My github Stats</h2>
+
+## 👀 My github Stats
 
 <div>
 <!--   <p align="center">
@@ -71,4 +75,4 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 [linkedin]:https://www.linkedin.com/in/pranita-fulsundar-8952711a6/
 [twitter]: https://twitter.com/pranita0709
 [instagram]: https://www.instagram.com/pranita.fulsundar/
-[gmail]: pfulsundar8@gmail.com
+[gmail]: to:pfulsundar8@gmail.com
