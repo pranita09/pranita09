@@ -29,25 +29,25 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) 
 [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com) -->
 
-[<img align="left" alt="pranita | website" width="42px" src="https://img.icons8.com/cotton/256/website.png" />][website]
-[<img align="left" alt="pranita | linkedin" width="42px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="pranita | twitter" width="42px" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" />][twitter]
-[<img align="left" alt="pranita | instagram" width="42px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="pranita | email" width="42px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />][email]
+[<img align="left" alt="pranita | website" width="45px" src="https://img.icons8.com/cotton/256/website.png" />][website]
+[<img align="left" alt="pranita | linkedin" width="45px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="pranita | twitter" width="45px" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" />][twitter]
+[<img align="left" alt="pranita | instagram" width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="pranita | email" width="45px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />](pfulsundar8@gmail.com)
 
 <br><br>
 
 ## 👩💻 What I am Good at ‍
 
-<img align="left" width="42px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
-<img align="left" width="42px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
-<img align="left" width="42px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
-<img align="left" width="42px" src="https://img.icons8.com/office/48/000000/react.png"/> 
-<img align="left" width="42px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img align="left" width="42px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img align="left" width="42px" src="https://img.icons8.com/color/48/000000/npm.png"/>
-<img align="left" width="42px" src="https://img.icons8.com/fluency/256/node-js.png"/>
-<img align="left" width="42px" src="https://img.icons8.com/color/256/git.png" />
+<img align="left" width="45px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
+<img align="left" width="45px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
+<img align="left" width="45px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+<img align="left" width="45px" src="https://img.icons8.com/office/48/000000/react.png"/> 
+<img align="left" width="45px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" width="45px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img align="left" width="45px" src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img align="left" width="45px" src="https://img.icons8.com/fluency/256/node-js.png"/>
+<img align="left" width="45px" src="https://img.icons8.com/color/256/git.png" />
 
 <br><br>
 
@@ -75,4 +75,4 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 [linkedin]:https://www.linkedin.com/in/pranita-fulsundar-8952711a6/
 [twitter]: https://twitter.com/pranita0709
 [instagram]: https://www.instagram.com/pranita.fulsundar/
-[gmail]: to:pfulsundar8@gmail.com
+[gmail]: pfulsundar8@gmail.com
