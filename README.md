@@ -16,7 +16,7 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
 
----
+- - - -
 
 ## 👩💻 What I am Good at ‍
 
@@ -31,7 +31,7 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 <img align="left" width="45px" src="https://img.icons8.com/color/256/git.png" />
 
 <br><br>
----
+- - - -
 
 ## 📕 My Latest Blog posts
 
@@ -39,8 +39,8 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 * <a href="https://pranita.hashnode.dev/loose-equality-vs-strict-equality">Loose equality (==) VS Strict equality (===) in JavaScript</a>
 * <a href="https://pranita.hashnode.dev/css-positioning-position-absolute-and-relative">CSS Positioning - Position Absolute and Relative</a>
 
-<br><br>
----
+<br>
+- - - -
 
 ## 📈 My github Stats
 
@@ -59,8 +59,8 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 ![My github status](https://github-readme-stats.vercel.app/api?username=pranita09&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita09&layout=compact)
 
-<br><br>
----
+<br>
+- - - -
 
 ## ☕ Connect with me 
 
@@ -76,7 +76,7 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 [<img align="left" alt="pranita | instagram" width="45px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="pranita | email" width="45px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />](pfulsundar8@gmail.com)
 
-<br><br>
+<br>
 
 [website]: https://pranita-fulsundar.netlify.app/
 [linkedin]:https://www.linkedin.com/in/pranita-fulsundar-8952711a6/
