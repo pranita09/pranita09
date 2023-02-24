@@ -16,4 +16,4 @@ jobs:
       - name: Pull in hashnode posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://hashnode.com/613601975edffc22b9ea0b9f/dashboard/posts"
+          feed_list: "https://@pranita.hashnode.dev/rss.xml"
