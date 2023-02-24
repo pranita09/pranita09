@@ -4,7 +4,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
 
 I am a web developer, Javascript, React-JS, HTML, and CSS are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing and Web development**
@@ -18,7 +18,7 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 
 - - - -
 
-## 👩💻 What I am Good at ‍
+## 👩💻 What I am Good at ‍:
 
 <img align="left" width="45px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
 <img align="left" width="45px" src="https://img.icons8.com/color/48/000000/css3.png"/> 
@@ -33,16 +33,17 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 <br><br>
 - - - -
 
-## 📕 My Latest Blog posts
+## 📕 Latest Blog posts:
 
 * <a href="https://pranita.hashnode.dev/why-do-we-get-typeerror-and-referenceerror-in-javascript">Why do we get typeerror and referenceerror in javaScript</a>
 * <a href="https://pranita.hashnode.dev/loose-equality-vs-strict-equality">Loose equality (==) VS Strict equality (===) in JavaScript</a>
 * <a href="https://pranita.hashnode.dev/css-positioning-position-absolute-and-relative">CSS Positioning - Position Absolute and Relative</a>
 
 <br>
-----
 
-## 📈 My github Stats
+---
+
+## 📈 Github Stats:
 
 <div>
 <!--   <p align="center">
@@ -60,9 +61,10 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita09&layout=compact)
 
 <br>
-----
 
-## ☕ Connect with me 
+---
+
+## ☕ Let's Connect  
 
 <!-- [![@pranita-fulsundar](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) 
 [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) 
