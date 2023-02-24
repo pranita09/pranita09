@@ -35,9 +35,9 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 
 ## 📕 My Latest Blog posts
 
-*<a href="https://pranita.hashnode.dev/why-do-we-get-typeerror-and-referenceerror-in-javascript">Why do we get typeerror and referenceerror in javaScript</a>
-*<a href="https://pranita.hashnode.dev/loose-equality-vs-strict-equality">Loose equality (==) VS Strict equality (===) in JavaScript</a>
-*<a href="https://pranita.hashnode.dev/css-positioning-position-absolute-and-relative">CSS Positioning - Position Absolute and Relative</a>
+* <a href="https://pranita.hashnode.dev/why-do-we-get-typeerror-and-referenceerror-in-javascript">Why do we get typeerror and referenceerror in javaScript</a>
+* <a href="https://pranita.hashnode.dev/loose-equality-vs-strict-equality">Loose equality (==) VS Strict equality (===) in JavaScript</a>
+* <a href="https://pranita.hashnode.dev/css-positioning-position-absolute-and-relative">CSS Positioning - Position Absolute and Relative</a>
 
 <br><br>
 ---
