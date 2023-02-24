@@ -27,14 +27,24 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) 
 [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com) -->
 
-[<img align="left" alt="pranita | website" width="" src="https://img.icons8.com/cotton/256/website.png" />][website]
-[<img align="left" alt="pranita | linkedin" width="" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="pranita | twitter" width="" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" />][twitter]
-[<img align="left" alt="pranita | instagram" width="" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="pranita | email" width="" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />][email]
+[<img align="left" alt="pranita | website" width="22px" src="https://img.icons8.com/cotton/256/website.png" />][website]
+[<img align="left" alt="pranita | linkedin" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="pranita | twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" />][twitter]
+[<img align="left" alt="pranita | instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="pranita | email" width="22px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />][email]
 
 
-## 💻 What I am Good at ‍
+## 👩💻 What I am Good at ‍
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+<img src="https://img.icons8.com/office/48/000000/react.png"/> 
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/fluency/256/node-js.png"/>
+<img src="https://img.icons8.com/color/256/git.png" />
 
 
 <h2>👀 My github Stats</h2>
