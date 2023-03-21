@@ -35,6 +35,8 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 
 ## 📕 Latest Blog posts:
 
+* <a href="https://pranita.hashnode.dev/deep-dive-into-asynchronous-js-callbacks-promises-async-await">Deep Dive into Asynchronous JS: Callbacks, Promises & Async-Await</a>
+* <a href="https://pranita.hashnode.dev/inside-javascripts-runtime-callstack-event-loop-callback-and-job-queues">Inside JavaScript's Runtime: Callstack, Event Loop, Callback and Job Queues</a>
 * <a href="https://pranita.hashnode.dev/why-do-we-get-typeerror-and-referenceerror-in-javascript">Why do we get typeerror and referenceerror in javaScript</a>
 * <a href="https://pranita.hashnode.dev/loose-equality-vs-strict-equality">Loose equality (==) VS Strict equality (===) in JavaScript</a>
 * <a href="https://pranita.hashnode.dev/css-positioning-position-absolute-and-relative">CSS Positioning - Position Absolute and Relative</a>
