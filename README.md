@@ -59,8 +59,8 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=pranita09&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita09&layout=compact)
+<!-- ![My github status](https://github-readme-stats.vercel.app/api?username=pranita09&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita09&layout=compact) -->
 
 <br>
 
