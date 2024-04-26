@@ -4,15 +4,22 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me
 
-I am a web developer, Javascript, React-JS, HTML, and CSS are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a Frontend Developer, Javascript, React-JS, HTML, and CSS are the programming languages I am good at. I love to learn and build something new, productive, innovative, and creative.
 
 - **I am interested in Web designing and Web development**
 
+* 🎯 I’m proficient at ...
+  - JavaScript
+  - ReactJS
+  - TypeScript
+  - JEST Testing
+  - Web Development
 * 🌱 I’m currently learning ...
-  - React js
-  - Frontend skills
-* ✍️ I like to write my learnings through the technical blogs.
-* 👯 I’m looking forward to collaborate on open source projects.
+  - ExpressJS
+  - NodeJS
+  - Data Structures and Algorithms
+* ✍️ I like to write my learnings through technical blogs.
+* 👯 I’m looking forward to collaborating on open-source projects.
 * ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 * Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
 
@@ -91,5 +98,5 @@ I am a web developer, Javascript, React-JS, HTML, and CSS are the programming la
 [instagram]: https://www.instagram.com/pranita.fulsundar/
 [gmail]: pfulsundar8@gmail.com
 
-<!-- Refer this video to make updates in future: https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr
-Also workflow is not working, Added the blogs manuaaly-->
+<!-- Refer to this video to make updates in the future: https://www.youtube.com/watch?v=ECuqb5Tv9qI&ab_channel=codeSTACKr
+Also, workflow is not working, Added the blogs manually-->
