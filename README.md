@@ -1,4 +1,4 @@
-# Hi 👋, it's Pranita here.
+# Hi 👋, it's Pranita Fulsundar.
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=pranita09.repoName)<br/>
 
@@ -6,12 +6,9 @@
 
 I am a Frontend Developer, and my tech stack includes NextJS, ReactJS, JavaScript, Typescript, HTML5, CSS3, Tailwind CSS, Material UI, Redux and Redux Toolkit.
 
-- **I am interested in Web designing and Web development**
-
-* ✍️ I like to write my learnings through technical blogs.
-* 👯 I’m looking forward to collaborating on open-source projects.
-* ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-* Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
+* I like to write what I learn through technical blogs.
+* I’m looking forward to collaborating on open-source projects.
+* Outside tech, I like to read, listen to music, and explore nature outdoors.
 
 ---
 
@@ -23,17 +20,17 @@ I am a Frontend Developer, and my tech stack includes NextJS, ReactJS, JavaScrip
 - <a href="https://pranita.hashnode.dev/loose-equality-vs-strict-equality">Loose equality (==) VS Strict equality (===) in JavaScript</a>
 - <a href="https://pranita.hashnode.dev/css-positioning-position-absolute-and-relative">CSS Positioning - Position Absolute and Relative</a>
 
-<br>
+<be>
 
----
+<!-- ---
 
 ## 📈 Github Stats:
 
 <div>
-<!--   <p align="center">
+  <p align="center">
     <b><em>Now listening to:</em></b> <br/>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
+  </p> 
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
@@ -41,10 +38,10 @@ I am a Frontend Developer, and my tech stack includes NextJS, ReactJS, JavaScrip
   
 </div>
 
-<!-- ![My github status](https://github-readme-stats.vercel.app/api?username=pranita09&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita09&layout=compact) -->
+ ![My github status](https://github-readme-stats.vercel.app/api?username=pranita09&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita09&layout=compact) 
 
-<br>
+<br> -->
 
 ---
 
