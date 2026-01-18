@@ -14,6 +14,8 @@ I am a Frontend Developer, and my tech stack includes NextJS, ReactJS, JavaScrip
 
 ## 📕 Latest Blog posts:
 
+
+- <a href="https://pranita.hashnode.dev/is-your-website-ready-for-googles-performance-standards">Is Your Website Ready for Google's Performance Standards?</a>
 - <a href="https://pranita.hashnode.dev/deep-dive-into-asynchronous-js-callbacks-promises-async-await">Deep Dive into Asynchronous JS: Callbacks, Promises & Async-Await</a>
 - <a href="https://pranita.hashnode.dev/inside-javascripts-runtime-callstack-event-loop-callback-and-job-queues">Inside JavaScript's Runtime: Callstack, Event Loop, Callback and Job Queues</a>
 - <a href="https://pranita.hashnode.dev/why-do-we-get-typeerror-and-referenceerror-in-javascript">Why do we get typeerror and referenceerror in javaScript</a>
